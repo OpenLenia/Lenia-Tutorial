@@ -2,7 +2,7 @@
 
 ## "From Conway to Lenia" tutorial 
 
-[<img height="50px" src="https://colab.research.google.com/img/colab_favicon_256px.png"> <b>Full version (68MB, with results)</b>](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb)
+[<img height="50px" src="https://colab.research.google.com/img/colab_favicon_256px.png"> <b>Full version (95MB, with results)</b>](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia.ipynb)
 
 - If failed to open in your browser, open the below clean version.
 
