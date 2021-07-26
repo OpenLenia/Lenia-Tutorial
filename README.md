@@ -11,3 +11,10 @@
 - Click <kbd>Runtime</kbd> menu > <kbd>Run all</kbd> to run the notebook and see the results.
 
 <kbd><img height="400px" src="https://raw.githubusercontent.com/OpenLenia/Lenia-Tutorial/main/Lenia-Tutorial-02.jpg"></kbd>
+
+Credits:
+
+- Suggestion from [Danilo Oliveira Vaz](https://twitter.com/emergir_co)
+- Comments for improvement from [Will Cavendish](https://openlenia.github.io/team)
+- Compact code of the Game of Life from [Jake VanderPlas](http://jakevdp.github.io/blog/2013/08/07/conways-game-of-life/)
+- Compact code of Lenia from [Alex Mordvintsev](https://twitter.com/zzznah)
