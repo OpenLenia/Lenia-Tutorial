@@ -10,4 +10,4 @@
 
 - Click <kbd>Runtime</kbd> menu > <kbd>Run all</kbd> to run the notebook and see the results.
 
-<kbd><img height="250px" src="https://raw.githubusercontent.com/OpenLenia/Lenia-Tutorial/main/Lenia-Tutorial-01.png"></kbd>
+<kbd><img height="400px" src="https://raw.githubusercontent.com/OpenLenia/Lenia-Tutorial/main/Lenia-Tutorial-02.jpg"></kbd>
