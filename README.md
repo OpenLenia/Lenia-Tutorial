@@ -9,9 +9,9 @@
 [<img height="50px" src="https://colab.research.google.com/img/colab_favicon_256px.png"> <b>Clean version (without results)</b>](https://colab.research.google.com/github/OpenLenia/Lenia-Tutorial/blob/main/Tutorial_From_Conway_to_Lenia_(w_o_results).ipynb)
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenLenia/Lenia-Tutorial/main?labpath=Tutorial_From_Conway_to_Lenia.ipynb)<b>Full version, (95MB with results)</b>
+[<img src="https://mybinder.org/badge_logo.svg"> <b>Full version, (95MB with results)</b>](https://mybinder.org/v2/gh/OpenLenia/Lenia-Tutorial/main?labpath=Tutorial_From_Conway_to_Lenia.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OpenLenia/Lenia-Tutorial/main?labpath=Tutorial_From_Conway_to_Lenia_(w_o_results).ipynb)<b>Clean version, without results.</b>
+[<img src="https://mybinder.org/badge_logo.svg"> <b>Clean version, without results.</b>](https://mybinder.org/v2/gh/OpenLenia/Lenia-Tutorial/main?labpath=Tutorial_From_Conway_to_Lenia_(w_o_results).ipynb)
 
 - Click <kbd>Runtime</kbd> menu > <kbd>Run all</kbd> to run the notebook and see the results.
 
